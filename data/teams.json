@@ -1,0 +1,27 @@
+{
+    "MAN-UTD": {
+        "id": "MAN-UTD",
+        "name": "Manchester United",
+        "city": "Manchester"
+    },
+    "LIVERPOOL": {
+        "id": "LIVERPOOL",
+        "name": "Liverpool",
+        "city": "Liverpool"
+    },
+    "BARCA": {
+        "id": "BARCA",
+        "name": "Barcelona",
+        "city": "Barcelona"
+    },
+    "REAL": {
+        "id": "REAL",
+        "name": "Real Madrid",
+        "city": "Madrid"
+    },
+    "CHELSEA": {
+        "id": "CHELSEA",
+        "name": "Chelsea",
+        "city": "London"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "5fef82f832ccf": {
+        "username": "fancy",
+        "password": "$2y$10$NNMPF00qo8XFdiQMzKnnaORsQ4zYUkfmh3GjMSjFVVQxZj8dcvxk2",
+        "email": "123@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "5fef82f832ccf"
+    },
+    "5ff369d077396": {
+        "username": "marija",
+        "password": "$2y$10$fUG7EEaDAJ7Jy22F\/VRESO0XEBbQajKed8aAitWOVaE\/Q\/mxR.M9y",
+        "email": "123456@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "5ff369d077396"
+    },
+    "5ff65819c3822": {
+        "username": "charlie",
+        "password": "$2y$10$JtppchQaKDdkJmGb7\/JL5.JGih4UvGzKuxxWpRb23suFUzpX0554i",
+        "email": "1234@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "5ff65819c3822"
+    },
+    "5ff6751e9557a": {
+        "username": "admin",
+        "password": "$2y$10$rGY2.h2ThuHMDDZ3bS2Raeg\/dDwx1EJFTpLL.B4r7rlT9jxsWLWaK",
+        "email": "admin@nemkovid.hu",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "id": "5ff6751e9557a"
+    },
+    "5ff87172c568f": {
+        "username": "miao",
+        "password": "$2y$10$rcmKBwU2erV5matBYOmSMu07TE2Ul.P9ZfkYxctq8FJrTn0xkkt3C",
+        "email": "miao@elte.hu",
+        "roles": [
+            "user"
+        ],
+        "id": "5ff87172c568f"
+    },
+    "5ff87172c568g": {
+        "username": "dragan",
+        "password": "tesakam",
+        "email": "kajsibesopravis@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "5ff87172c568g"
+    },
+    "61defdb59ef3e": {
+        "username": "new username",
+        "password": "$2y$10$lkVgv2XLzp4CGBhTtdQoR.urYFdD9SMZsQlYe81fgQ0CtkGIEwgm6",
+        "email": "asds@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61defdb59ef3e"
+    },
+    "61defe3e77c8a": {
+        "username": "username01",
+        "password": "$2y$10$TXNDfK5G5jdjQLXl.6BHpeaEsUf93C.3lp8NEnJzZgUcwhP9ceRpG",
+        "email": "username01@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "61defe3e77c8a"
+    }
+}
